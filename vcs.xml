@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Purdue-CS193/lab-3-huybui13.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jahess47/cs180-chatserver" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Huy\IdeaProjects" />
